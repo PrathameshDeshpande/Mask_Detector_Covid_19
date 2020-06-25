@@ -5,3 +5,4 @@ Traditional Model got an accuracy of 96% on Validation set which of 20% of the t
 The second file is a model based on Inception-V3 CNN trained on imagnet dataset
 With the help of Transfer Learning I achieved an accuracy of 97%
 Since imagnet dataset doesn't contain human picture. Transfer Learning wasn't so efficient
+Its a very well trained model which will show error even  if someone dont put the mask properly
